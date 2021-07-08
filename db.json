@@ -1,0 +1,15 @@
+{
+  "hybrisOrderNumber": "string",
+  "sapOrderId": "string",
+  "supplierNumber": "string",
+  "productId": "string",
+  "hybrisStatus": "string",
+  "orderDate": "string",
+  "report": "string",
+  "duration": "string",
+  "supplierContactPerson": "string",
+  "supplierEmail": "string",
+  "supplierPhoneNumber": "string",
+  "supplierFaxNumber": "string",
+  "supplierMobileNumber": "string"
+}
